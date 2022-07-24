@@ -16,6 +16,7 @@ A collection of interesting papers related to Large Language Models (LLM)
 - PaLM: 540B params: https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
 - GLaM: 1.2T params: https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html
 - LaMDA: 137B params: https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html
+- YaML: 100B params: https://github.com/yandex/YaLM-100B
 
 
 ## Speedup tricks, Scaling Laws, and Dataset Analysis
