@@ -27,6 +27,7 @@ A collection of interesting papers related to Large Language Models (LLM)
 - Multimodal datasets: misogyny, pornography, and malignant stereotypes: https://arxiv.org/abs/2110.01963
 - Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping: https://arxiv.org/abs/2002.06305
 - Language Models (Mostly) Know What They Know: https://arxiv.org/abs/2207.05221
+- `LLM.int8()`: Quantization for LLM: https://huggingface.co/blog/hf-bitsandbytes-integration
 
 ## Libraries
 - DeepSpeed: https://github.com/microsoft/DeepSpeed
