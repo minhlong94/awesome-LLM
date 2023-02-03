@@ -22,12 +22,18 @@ A collection of interesting papers related to Large Language Models (LLM)
 
 ## Speedup tricks, Scaling Laws, and Dataset Analysis
 - Training Compute-Optimal Large Language Models: https://arxiv.org/abs/2203.15556
-- Scaling Laws for Neural Language Models: https://arxiv.org/abs/2001.08361v1
 - Prune Once for All: Sparse Pre-Trained Language Models: https://arxiv.org/abs/2111.05754
 - Multimodal datasets: misogyny, pornography, and malignant stereotypes: https://arxiv.org/abs/2110.01963
 - Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping: https://arxiv.org/abs/2002.06305
 - Language Models (Mostly) Know What They Know: https://arxiv.org/abs/2207.05221
 - `LLM.int8()`: Quantization for LLM: https://huggingface.co/blog/hf-bitsandbytes-integration
+- Fooling MOSS Detection with Pretrained Language Models: https://arxiv.org/abs/2201.07406
+- Mathematical Capabilities of ChatGPT: https://arxiv.org/abs/2301.13867
+
+## Scaling Laws
+- Broken Neural Scaling Laws: https://arxiv.org/abs/2210.14891
+- Scaling Laws for Neural Language Models: https://arxiv.org/abs/2001.08361v1
+
 
 ## Libraries
 - DeepSpeed: https://github.com/microsoft/DeepSpeed
