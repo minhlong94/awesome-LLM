@@ -31,6 +31,7 @@ A collection of interesting papers related to Large Language Models (LLM)
 - Fooling MOSS Detection with Pretrained Language Models: https://arxiv.org/abs/2201.07406
 - Mathematical Capabilities of ChatGPT: https://arxiv.org/abs/2301.13867
 - Best Practices for Data-Efficient Modeling in NLG: How to Train Production-Ready Neural Models with Less Data: https://ai.facebook.com/research/publications/best-practices-for-data-efficient-modeling-in-nlg-how-to-train-production-ready-neural-models-with-less-data/
+- On the Machine Learning of Ethical Judgments from Natural Language: https://aclanthology.org/2022.naacl-main.56/
 
 ## Scaling Laws
 - Broken Neural Scaling Laws: https://arxiv.org/abs/2210.14891
