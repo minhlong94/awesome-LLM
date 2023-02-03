@@ -34,6 +34,7 @@ A collection of interesting papers related to Large Language Models (LLM)
 ## Scaling Laws
 - Broken Neural Scaling Laws: https://arxiv.org/abs/2210.14891
 - Scaling Laws for Neural Language Models: https://arxiv.org/abs/2001.08361v1
+- Beyond neural scaling laws: beating power law scaling via data pruning: https://arxiv.org/abs/2206.14486
 
 
 ## Libraries
