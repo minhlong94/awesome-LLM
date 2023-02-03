@@ -18,6 +18,7 @@ A collection of interesting papers related to Large Language Models (LLM)
 - LaMDA: 137B params: https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html
 - YaML: 100B params: https://github.com/yandex/YaLM-100B
 - GLM-130B: 130B params: https://github.com/THUDM/GLM-130B
+- NLLM: No Language Left Behind: Scaling Human-Centered Machine Translation: https://ai.facebook.com/research/publications/no-language-left-behind-scaling-human-centered-machine-translation/
 
 
 ## Speedup tricks, Scaling Laws, and Dataset Analysis
